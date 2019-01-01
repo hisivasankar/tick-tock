@@ -8,9 +8,9 @@ This is created with create react app. Hence you can find the docs (here)[/docs/
 
 # Roadmap
 
-[ ] Feature to create new widget for time tracking
-[ ] Timeline feature when you pause/resume the activity
-[ ] Multi User support with OAuth support
-[ ] Add test-cases
-[ ] CI Integration
-[ ] Deploy in cloud
+* [ ] Feature to create new widget for time tracking
+* [ ] Timeline feature when you pause/resume the activity
+* [ ] Multi User support with OAuth support
+* [ ] Add test-cases
+* [ ] CI Integration
+* [ ] Deploy in cloud
