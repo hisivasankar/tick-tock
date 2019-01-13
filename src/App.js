@@ -10,7 +10,8 @@ const widgetData = [
   },
   {
     title: "Intermittent Fasting",
-    from: "2018/12/24"
+    from: "2018/12/24",
+    to: "2019/01/11 9:45"
   },
   {
     title: "Braces",

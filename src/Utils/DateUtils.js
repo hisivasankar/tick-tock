@@ -43,8 +43,8 @@ function formatTimeInMS(timeInMs, format) {
   return formatedTime;
 }
 
-export function timeElapsed(date) {
-  return formatTimeInMS(dateDifference(date));
+export function timeElapsed(fromDate, toDate) {
+  return formatTimeInMS(dateDifference(fromDate, toDate));
 }
 
 // const myAge = formatTimeInMS(dateDifference("1993/07/25"));
