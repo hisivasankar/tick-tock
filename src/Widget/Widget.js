@@ -16,7 +16,7 @@ const Widget = props => {
       <h3>{time}</h3>
       <div>
         <p>From {from.toDateString()}</p>
-        <p>Until {to ? to.toLocaleString() : "now!"}</p>
+        <p>Until {props.to ? to.toLocaleString() : "now!"}</p>
       </div>
     </div>
   );
