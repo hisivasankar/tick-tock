@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/tick-tock/static/css/main.c5e677b8.chunk.css"
   },
   {
-    "revision": "b9596109ba29e4b2ea6b0e0e2364614c",
+    "revision": "ba00c28c0fb7b99a76bf45416d92c7b7",
     "url": "/tick-tock/index.html"
   }
 ];
