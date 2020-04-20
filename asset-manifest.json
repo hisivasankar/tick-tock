@@ -1,13 +1,13 @@
 {
   "main.css": "/tick-tock/static/css/main.b0683448.chunk.css",
-  "main.js": "/tick-tock/static/js/main.b0f24d57.chunk.js",
-  "main.js.map": "/tick-tock/static/js/main.b0f24d57.chunk.js.map",
+  "main.js": "/tick-tock/static/js/main.05c827df.chunk.js",
+  "main.js.map": "/tick-tock/static/js/main.05c827df.chunk.js.map",
   "static/js/1.4a34e45d.chunk.js": "/tick-tock/static/js/1.4a34e45d.chunk.js",
   "static/js/1.4a34e45d.chunk.js.map": "/tick-tock/static/js/1.4a34e45d.chunk.js.map",
   "runtime~main.js": "/tick-tock/static/js/runtime~main.d2062cc0.js",
   "runtime~main.js.map": "/tick-tock/static/js/runtime~main.d2062cc0.js.map",
   "static/css/main.b0683448.chunk.css.map": "/tick-tock/static/css/main.b0683448.chunk.css.map",
   "index.html": "/tick-tock/index.html",
-  "precache-manifest.4a31f4850a8400e41f65b52fbabc267b.js": "/tick-tock/precache-manifest.4a31f4850a8400e41f65b52fbabc267b.js",
+  "precache-manifest.4498488f43e74d0d5d73cfb6a44f5b48.js": "/tick-tock/precache-manifest.4498488f43e74d0d5d73cfb6a44f5b48.js",
   "service-worker.js": "/tick-tock/service-worker.js"
 }
