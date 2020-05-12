@@ -19,7 +19,7 @@ const widgetData = [
   },
   {
     title: "Judgement Day",
-    to: "2020/05/17 9:00",
+    to: "2020/06/07 9:00",
     reverse: true,
   },
 ];
