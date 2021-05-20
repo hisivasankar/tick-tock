@@ -22,6 +22,15 @@ const widgetData = [
     to: "2020/06/10 9:00",
     reverse: true,
   },
+  {
+    title: "Covishield 1st Dose Vaccination",
+    from: "2021/05/20 2:40 PM"
+  },
+  {
+    title: "Vegetarian Diet Experiment",
+    from: "2020/4/01",
+    to: "2021/5/01",
+  },
 ];
 
 class App extends Component {
