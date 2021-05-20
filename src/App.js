@@ -23,13 +23,16 @@ const widgetData = [
     reverse: true,
   },
   {
+    title: "Vegetarian Diet Experiment",
+    from: "2020/4/01",
+    to: "2021/5/01",
+  },{
     title: "Covishield 1st Dose Vaccination",
     from: "2021/05/20 2:40 PM"
   },
   {
-    title: "Vegetarian Diet Experiment",
-    from: "2020/4/01",
-    to: "2021/5/01",
+    title: "Parents Vaccination - 1st Dose",
+    from: "2021/04/14 3:00 PM"
   },
 ];
 
