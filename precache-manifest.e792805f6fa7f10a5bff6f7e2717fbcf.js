@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "237580ba340aa2c429b8",
+    "revision": "875e97139614895fccf3",
     "url": "/tick-tock/static/css/main.b3b1052f.chunk.css"
   },
   {
-    "revision": "237580ba340aa2c429b8",
-    "url": "/tick-tock/static/js/main.237580ba.chunk.js"
+    "revision": "875e97139614895fccf3",
+    "url": "/tick-tock/static/js/main.875e9713.chunk.js"
   },
   {
     "revision": "6702e5451cd33d25fca6",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/tick-tock/static/js/runtime~main.d2062cc0.js"
   },
   {
-    "revision": "39456741413728605ed3b65ec06710ab",
+    "revision": "f4e3071d342f963f0d5aa70646017dfa",
     "url": "/tick-tock/index.html"
   }
 ];
