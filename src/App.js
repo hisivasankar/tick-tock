@@ -31,8 +31,12 @@ const widgetData = [
     from: "2021/05/20 2:40 PM"
   },
   {
-    title: "Parents Vaccination - 1st Dose",
+    title: "Covisheild Vaccination - Dad",
     from: "2021/04/14 3:00 PM"
+  },
+  {
+    title: "Covisheild Vaccination - Mom",
+    from: "2021/04/16 3:00 PM"
   },
 ];
 
