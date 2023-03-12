@@ -16,28 +16,13 @@ const widgetData = [
   {
     title: "Braces",
     from: "2018/12/23",
-  },
-  {
-    title: "Judgement Day",
-    to: "2020/06/10 9:00",
-    reverse: true,
+    to: "2022/09/06"
   },
   {
     title: "Vegetarian Diet Experiment",
     from: "2020/4/01",
     to: "2021/5/01",
-  },{
-    title: "Covishield 1st Dose Vaccination",
-    from: "2021/05/20 2:40 PM"
-  },
-  {
-    title: "Dad's Covishield Vaccination",
-    from: "2021/04/14 3:00 PM"
-  },
-  {
-    title: "Mom's Covishield Vaccination",
-    from: "2021/04/16 3:00 PM"
-  },
+  }
 ];
 
 class App extends Component {
