@@ -1,13 +1,13 @@
 {
-  "main.css": "/tick-tock/static/css/main.b3b1052f.chunk.css",
-  "main.js": "/tick-tock/static/js/main.875e9713.chunk.js",
-  "main.js.map": "/tick-tock/static/js/main.875e9713.chunk.js.map",
-  "static/js/1.6702e545.chunk.js": "/tick-tock/static/js/1.6702e545.chunk.js",
-  "static/js/1.6702e545.chunk.js.map": "/tick-tock/static/js/1.6702e545.chunk.js.map",
-  "runtime~main.js": "/tick-tock/static/js/runtime~main.d2062cc0.js",
-  "runtime~main.js.map": "/tick-tock/static/js/runtime~main.d2062cc0.js.map",
-  "static/css/main.b3b1052f.chunk.css.map": "/tick-tock/static/css/main.b3b1052f.chunk.css.map",
-  "index.html": "/tick-tock/index.html",
-  "precache-manifest.e792805f6fa7f10a5bff6f7e2717fbcf.js": "/tick-tock/precache-manifest.e792805f6fa7f10a5bff6f7e2717fbcf.js",
-  "service-worker.js": "/tick-tock/service-worker.js"
+  "files": {
+    "main.css": "/tick-tock/static/css/main.2d8c9602.css",
+    "main.js": "/tick-tock/static/js/main.ccadb291.js",
+    "index.html": "/tick-tock/index.html",
+    "main.2d8c9602.css.map": "/tick-tock/static/css/main.2d8c9602.css.map",
+    "main.ccadb291.js.map": "/tick-tock/static/js/main.ccadb291.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d8c9602.css",
+    "static/js/main.ccadb291.js"
+  ]
 }
